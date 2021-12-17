@@ -1,0 +1,4 @@
+PROBLEM:   
+1. Write a function class_stats that returns the average of a set of grades and their 
+distribution. The function will be in its very own file, separate from the other code.
+2. Write a makefile to pull everything together.
