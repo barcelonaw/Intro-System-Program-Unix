@@ -1,1 +1,3 @@
-PROBLEM:  This program uses structures and pointers.   It will receive (via a file) a set of javelin tries for a set of throwers.  We will figure out the best  throw for each competitor, the average of the best throws, and the winning best throw. You have to write function get_stats and makefile.
+PROBLEM:  This program uses structures and pointers.   It will receive (via a file) a set of javelin tries for a set of throwers. 
+We will figure out the best  throw for each competitor, the average of the best throws, and the winning best throw. 
+You have to write function get_stats and makefile.
